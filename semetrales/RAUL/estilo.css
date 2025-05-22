@@ -1,0 +1,24 @@
+body {
+    font-family: 'Times New Roman';
+    background-color: #FFE8D6;
+}
+
+.tabla {
+    background-color: #FFF4E6;
+    border: 2px solid #D4A373;
+    padding: 10px;
+}
+
+.tabla td {
+    padding: 15px;
+    text-align: center;
+    color: #5A3E36;
+}
+
+.tabla h2 {
+    color: #8B4513;
+}
+
+.tabla p {
+    color: #6B4226;
+}
