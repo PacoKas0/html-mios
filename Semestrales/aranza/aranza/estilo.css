@@ -1,0 +1,26 @@
+body{
+    font-family: Georgia;
+    font-size: 25px;
+}
+
+h2{
+    text-align: center;
+}
+
+.encabezado{
+    display: flex;
+    justify-content: space-between;
+}
+
+.encabezado h2{
+    padding-top: 20px;
+}
+
+th{
+    background-color: #392626;
+    color: white;
+}
+td{
+    background-color: #d97517;
+    color: white;
+}
